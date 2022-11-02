@@ -1,1 +1,1 @@
-print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
+print("ET0735 (DevOps for AIoT) - Laonu9nyubybybyb 2 - Introduction to Python")
